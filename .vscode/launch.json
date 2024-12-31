@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "dart",
+            "request": "launch",
+            "name": "Launch Flutter App",
+            "program": "${workspaceFolder}/lib/main.dart",
+            "preLaunchTask": "flutter pub get",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}
